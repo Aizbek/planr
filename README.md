@@ -1,0 +1,2 @@
+# planr
+Offline weekly planner
